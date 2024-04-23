@@ -1,0 +1,17 @@
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\bin\Debug\net6.0\JsonTask9999.exe
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\bin\Debug\net6.0\JsonTask9999.deps.json
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\bin\Debug\net6.0\JsonTask9999.runtimeconfig.json
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\bin\Debug\net6.0\JsonTask9999.dll
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\bin\Debug\net6.0\JsonTask9999.pdb
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.csproj.AssemblyReference.cache
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.AssemblyInfoInputs.cache
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.AssemblyInfo.cs
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask.43533A13.Up2Date
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.dll
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\refint\JsonTask9999.dll
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.pdb
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\JsonTask9999.genruntimeconfig.cache
+C:\Users\Kamil\Desktop\JsonTask9999\JsonTask9999\obj\Debug\net6.0\ref\JsonTask9999.dll
